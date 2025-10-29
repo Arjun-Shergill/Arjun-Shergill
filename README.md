@@ -1,4 +1,11 @@
 ## Hi there 👋
+My name is Arjun Shergill, and I have recently completed my master’s in aerospace engineering from the University of Birmingham. Currently, I am pursuing a PhD under the guidance of Dr. Chandan Bose, where my research focuses on the development and application of an open-source, GPU-accelerated flow solver for bio-inspired flight. Specifically, I'm currently working on the unsteady aerodynamics of butterflies, and visualising the effect of wing shape on Butterfly flight. My interest in engineering has been a lifelong passion, beginning in my childhood and evolving into a specialised focus on aerodynamics in recent years. I am especially interested in the role of aerodynamics in high-performance environments, such as motorsports, where precision, speed, and efficiency are paramount. This passion has been reinforced by my hands-on experience in various hobbies, particularly origami.
+
+Conncect with me:
+
+LinkedIn: https://www.linkedin.com/in/a-shergill/
+
+Email: arjunshergill4@gmail.com
 
 <!--
 **Arjun-Shergill/Arjun-Shergill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

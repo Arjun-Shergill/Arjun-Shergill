@@ -3,7 +3,7 @@ My name is Arjun Shergill, and I have recently completed my master’s in aerosp
 
 Conncect with me:
 
-LinkedIn: https://www.linkedin.com/in/a-shergill/
+[LinkedIn](https://linkedin.com/in/arjun-shergill)
 
 Email: arjunshergill4@gmail.com
 
